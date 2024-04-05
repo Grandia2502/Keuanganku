@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Keuanganku</string>
+    <string name="keuanganku_intro">Mari catat aktifitas keuanganmu!</string>
+    <string name="jumlah_uang">Jumlah</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="input_data">Simpan</string>
+    <string name="uang_x">Uang: \n%1$.2f</string>
+    <string name="keterangan_x">Keterangan: \n%1$s</string>
+    <string name="reset">Isi Ulang</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">"Jumlah uang: \n%1$.2f\n\nKeterangan: \n%2$s "</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Keuanganku merupakan aplikasi untuk mencatat aktifitas keuangan pengguna.\n\nAplikasi ini dibuat untuk kelas Mobpro 1.\n\nCopyright © 2023 – 2024 Grandia Muhammad.\nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+</resources>

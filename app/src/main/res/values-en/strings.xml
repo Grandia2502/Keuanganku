@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keuanganku</string>
+    <string name="keuanganku_intro">Let\'s record your financial activities!</string>
+    <string name="jumlah_uang">Total</string>
+    <string name="keterangan">Description</string>
+    <string name="input_data">Save</string>
+    <string name="uang_x">Money: \n%1$.2f</string>
+    <string name="keterangan_x">Description: \n%1$s</string>
+    <string name="reset">Reset</string>
+    <string name="input_invalid">Must not be empty</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">"Amount of money: \n%1$.2f\n\nDescription: \n%2$s "</string>
+    <string name="tentang_aplikasi">About</string>
+    <string name="copyright">Keuanganku is an application to record the user\'s financial activities.\n\nThis application is made for Mobpro 1 class.\n\nCopyright © 2023 – 2024 Grandia Muhammad.\nAll rights reserved.</string>
+    <string name="kembali">Back</string>
+</resources>
